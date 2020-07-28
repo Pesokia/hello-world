@@ -1,4 +1,5 @@
 # hello-world
-My first repo
-Pesokia here. Just starting my journey in Full Stack Web Development
-This happens to be my first time creating anything on GitHub.
+<b>My First Repo<b/> <br>
+Pesokia here. Just starting my journey in Full Stack Web Development. <br>
+This happens to be my first time creating anything on GitHub.<br>
+It's been fantastic so far.
